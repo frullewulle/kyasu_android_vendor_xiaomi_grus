@@ -356,16 +356,7 @@ PRODUCT_PACKAGES += \
     libGPTEE_vendor \
     libGPreqcancel \
     libGPreqcancel_svc \
-    libOmxAacDec \
-    libOmxAlacDec \
-    libOmxAmrDec \
-    libOmxAmrwbplusDec \
-    libOmxApeDec \
-    libOmxEvrcDec \
-    libOmxG711Dec \
-    libOmxQcelp13Dec \
     libOmxVpp \
-    libOmxWmaDec \
     libOpenCL \
     libQSEEComAPI \
     libQTEEConnector_vendor \
@@ -620,7 +611,6 @@ PRODUCT_PACKAGES += \
     com.qti.chi.override \
     libFaceGrade \
     libMegviiFacepp-0.5.2 \
-    libOmxDsdDec \
     libOmxVideoDSMode \
     libSNPE \
     libXMFD_AgeGender \
@@ -639,7 +629,6 @@ PRODUCT_PACKAGES += \
     libcamxtintlessalgo \
     libcom.qti.chinodeutils \
     libcppf \
-    libdsd2pcm \
     libfastcrc \
     libmegface \
     libmialgo_sd \
