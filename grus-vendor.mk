@@ -913,7 +913,6 @@ PRODUCT_PACKAGES += \
     imsdatadaemon \
     imsqmidaemon \
     imsrcsd \
-    init.qcom.sensors \
     init.qti.qcv \
     irsc_util \
     loc_launcher \

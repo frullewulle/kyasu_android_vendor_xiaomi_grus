@@ -19978,14 +19978,6 @@ cc_prebuilt_binary {
 }
 
 sh_binary {
-    name: "init.qcom.sensors",
-    owner: "xiaomi",
-    src: "proprietary/vendor/bin/init.qcom.sensors.sh",
-    filename: "init.qcom.sensors.sh",
-    soc_specific: true,
-}
-
-sh_binary {
     name: "init.qti.qcv",
     owner: "xiaomi",
     src: "proprietary/vendor/bin/init.qti.qcv.sh",
