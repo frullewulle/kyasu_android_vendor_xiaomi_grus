@@ -340,7 +340,6 @@ PRODUCT_PACKAGES += \
     android.hardware.keymaster@3.0-impl-qti \
     android.hardware.secure_element@1.0-impl \
     audio.primary.sdm710 \
-    sound_trigger.primary.sdm710 \
     vendor.qti.esepowermanager@1.0-impl \
     vendor.qti.hardware.bluetooth_audio@2.0-impl \
     vendor.qti.hardware.bluetooth_sar@1.1-impl \
